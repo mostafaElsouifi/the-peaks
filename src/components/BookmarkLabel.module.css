@@ -1,0 +1,24 @@
+.BookmarkLabel {
+  display: flex;
+  margin-right: 10px;
+
+  align-items: center;
+  color: #fff;
+  background-color: #09357b;
+  width: 170px;
+  font-size: 11px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 4px 11px;
+  font-weight: 500;
+
+  border-radius: 4px;
+  cursor: pointer;
+}
+.BookmarkLabel span {
+  margin-left: 10px;
+}
+
+.red-bookmark {
+  background: rgb(177, 6, 6);
+}

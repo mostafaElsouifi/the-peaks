@@ -1,0 +1,14 @@
+select {
+  width: 255px;
+  background: none;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  height: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.42);
+}
+select option {
+  border: none;
+  background: none;
+  width: 100%;
+}

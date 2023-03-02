@@ -1,0 +1,31 @@
+.mainContainer {
+  margin: 20px 60px;
+}
+.date {
+  display: block;
+  margin-top: 10px;
+}
+
+h2 {
+  word-wrap: break-word;
+  max-width: 800px;
+  margin-top: 10px;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  margin: 35px 0;
+}
+.content p {
+  max-width: 700px;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.content img {
+  max-height: 400px;
+  align-self: self-start;
+  margin-top: 70px;
+  max-width: 400px;
+}
